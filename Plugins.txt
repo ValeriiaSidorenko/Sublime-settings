@@ -1,0 +1,27 @@
+Packagecontrol:
+
+Emmet
+Быстрые конструкции
+https://docs.emmet.io/cheat-sheet/
+
+
+AutoFileName
+Дописывает путь
+
+
+AllAutocomplete
+предлагает варианты идентификаторов
+
+
+
+BracketHighlighter
+подсвечивает открытые теги
+
+
+
+ColorPicker
+гистограмма
+
+
+Colorcoder
+Разукрашивает все переменные, тем самым значительно упрощая ориентацию в коде
