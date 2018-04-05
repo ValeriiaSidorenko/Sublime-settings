@@ -6,4 +6,4 @@
 	"line_padding_top": 2,
 	"tab_size": 3,
 	"word_wrap": "false"
-}
+, "save_on_focus_lost": true,}
